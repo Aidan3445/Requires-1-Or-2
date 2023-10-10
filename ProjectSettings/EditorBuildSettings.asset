@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/VRSceneTemplate.unity
+    guid: 75d8cb0ff1ca6b04eb3b667b635dcc20
+  - enabled: 1
+    path: Assets/Scenes/hub.unity
+    guid: f7a5d5868c43a0e4698efdff548b0668
+  - enabled: 1
+    path: Assets/Scenes/Oddly Satisfying.unity
+    guid: 9c98e2cfbd8df4dec91115d185d9dbda
+  - enabled: 1
+    path: Assets/Scenes/MemoryGame.unity
+    guid: 42f2a235c59194e78a6ecfdb9f80ef43
+  - enabled: 1
+    path: Assets/Scenes/CraneGame.unity
+    guid: 5569ad4545ca65d4d8e43bab88225f57
+  - enabled: 0
+    path: Assets/Scenes/Trailer Scene.unity
+    guid: cef2c49d1d37f4c0cbd0b079e0f99f7b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 83571201095456f458d981d2684c8558, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 90fef4b99c006db458743b5b64a95136, type: 2}

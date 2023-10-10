@@ -1,0 +1,12 @@
+Memory Kyle
+Hello there!
+I've remembered every event that's occurred since January 1, 1970 00:00:00 UTC.
+But you humans always seem to have memory leak issues.
+Like what did you even have for dinner last night?
+Anyways, we have an experiment to test your memory.
+You must remember the matching cells behind you.
+To select a cell, throw an axe at it.
+Pick up an axe using the grip button. Try it now.
+When throwing, release the grip button. Give it a throw.
+We will conduct the experiment in a moment! Ready? Or did you forget how to play already?
+Go go go!

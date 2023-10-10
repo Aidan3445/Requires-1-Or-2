@@ -1,0 +1,9 @@
+
+Hello I'll keep this brief.
+You are a Crane.
+Cranes do not have questions.
+Cranes do however have joysticks.
+use the left joystick to move up,down,left,right.
+use the right joystick to go forwards and backwards.
+pick up objects and put them in which bin you think they should go.
+good luck.
